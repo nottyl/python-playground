@@ -1,3 +1,6 @@
+"""
+My implementation of the Caesar Cipher program, by Al Sweigart
+"""
 
 SYMBOLS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
