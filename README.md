@@ -1,4 +1,4 @@
-## Small Python Projects
+## Python Playground
 
 This is a collection of Python small programs by Al Sweigart to help me practice Python.
 
